@@ -2,6 +2,7 @@
 #' Automatically verifies the locaiton of the imageJ binaries on the user's system
 #'
 #' @param filePath Allows the full file path to the imageJ application to be set (optional).
+#' @param memoryAllocation Set the amount of RAM available to imageJ (optional).
 #' @return A reference class object
 #' @author Erik White \email{erikwhite@gmail.com}
 #' @export
